@@ -2,7 +2,7 @@
 title: "Supply Curves in Electricity Markets: A Framework For Dynamic Modeling and Monte Carlo Forecasting"
 collection: publications
 category: manuscripts
-permalink: 
+permalink: /publication/IEEE 
 date: 2022-9-22
 venue: 'IEEE Transactions on Power Systems'
 citation: 'S. Yıldırım, M. Khalafi, T. Güzel, H. Satık and M. Yılmaz, "Supply Curves in Electricity Markets: A Framework for Dynamic Modeling and Monte Carlo Forecasting," in IEEE Transactions on Power Systems, vol. 38, no. 4, pp. 3056-3069, July 2023, doi: 10.1109/TPWRS.2022.3208765'
