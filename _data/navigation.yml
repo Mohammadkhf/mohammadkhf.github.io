@@ -3,25 +3,24 @@ s # The following is the order of the links in the header of the website.
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
 main:
-  - title: "Publications"
-    url: /publications/
+ - title: "Pub"
+    url: /publ/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Tghj"
+    url: /thjkg/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Tgkmg"
+    url: /teachingfcbvg/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Portcbbvcfolio"
+    url: /portfovb clio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog b vPosts"
+    url: /year-arbjkjchive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "CbcV"
+    url: /ccbv/
     
   - title: "Guide"
     url: /markdown/
