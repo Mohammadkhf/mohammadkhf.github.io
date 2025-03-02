@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/simulation
+venue: "Sabanci University, IE department"
+date: 2019-09-20
+location: "Istanbul, Turkey"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was a teaching assistant for Simulation (IE 305) at Sabanci University. 
+### Description
+ Responsible for homework and exam grading, holding weekly office hours, maintaining student progress records, and delivering class lectures mostly done in Arena whenever required. It was an undergrad course with approximately 120 students. 
