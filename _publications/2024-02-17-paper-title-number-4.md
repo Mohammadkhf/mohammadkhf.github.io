@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 4"
+title: "Accelerated Primal-Dual Methods for Convex-Strongly-Concave Saddle Point Problems"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/ICML
+excerpt: 'This paper was published in my first year of PhD'
+date: 2023-6-12
+venue: 'International Conference on Machine Learning (ICML)'
+paperurl: 'http://mohammadkhf.github.io/files/icml.pdf'
+citation: 'M Khalafi, D Boob - International conference on machine learning, 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We study a primal-dual (PD) method for saddle point problems (SPP) that replaces the standard proximal step with a linear approximation of the primal function, leading to a Linearized Primal-Dual (LPD) method. For convex-strongly concave SPPs, we find that LPD has a suboptimal dependence on the Lipschitz constant of the primal function.
+
+To address this, we integrate features of Accelerated Gradient Descent into LPD, resulting in the Accelerated Linearized Primal-Dual (ALPD) method, which achieves optimal gradient complexity for SPPs with semi-linear coupling functions. For more general nonlinear coupling functions, we introduce an inexact ALPD method, which maintains optimal primal gradient evaluations while significantly reducing the complexity of the coupling term.
+
+We validate our theoretical results through numerical experiments on QCQPs with different rules of regularizations.
