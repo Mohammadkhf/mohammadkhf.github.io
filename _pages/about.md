@@ -14,27 +14,16 @@ I am a PhD candidate at Southern Methodist University (SMU) in the Operations Re
 
 I have published my research in top-tier venues such as the IEEE Transactions on Power Systems and ICML. I obtained my MSc at Sabanci University on the topic of statistical learning methods in decision-making problems in electricity markets. I did my BSc from AmirKabir University of Technology (Tehran Polytechnic). 
 
-A data-driven personal website
+Education
 ======
-
-
-Getting started
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-
-For more info
-------
-
+### PhD in Operations Research (2022-Present)
+* Southern Methodist University
+* Thesis Title (tentative): First-order Methods in Modern Optimization Problems: Algorithms and Applications
+* GPA: 4.00
+### MSc in Industrial Engineering (2019-2021)
+* Sabanci University
+* Thesis Title: Predicting the Supply Curve of Electricity in an Intra-day Market Using State-space Models and Sequential Markov Chain Monte Carlo Methods
+* GPA: 3.75
+### BSc in Industrial Engineering (2015-2019)
+* Thesis Title: Developing Social Robots with Personalized Behavior for Elder Care
+* GPA: 3.43
