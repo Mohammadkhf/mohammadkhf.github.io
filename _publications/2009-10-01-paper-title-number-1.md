@@ -4,11 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/IEEE
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 9-22-2022
+venue: 'IEEE Transactions on Power Systems'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+During my MSc research, we developed a model for supply curves in short-term electricity markets. This model captured the contributions of various resources to the aggregate supply curve and accounted for the influence of external factors on both pricing and supply levels. To enhance its capabilities, we integrated a unified Monte Carlo approach for tracking latent variables, forecasting, and hyperparameter estimation. Specifically, we introduced a sequential Markov chain Monte Carlo (S-MCMC) algorithm to track latent variables, enabling day-ahead supply curve forecasting. For hyperparameter estimation, we incorporated S-MCMC into the expectation step of two variants of the expectation-maximization (EM) algorithm. We applied our framework to the Turkish electricity market and evaluated its performance using real market data, demonstrating that our method is competitive with state-of-the-art prediction models. 
