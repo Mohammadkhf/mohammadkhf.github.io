@@ -6,22 +6,22 @@ s # The following is the order of the links in the header of the website.
 
 main:
   - title: "Publications"
-    URL: /publications/
+    url: /publications/
 
   - title: "Talks"
-    URL: /talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    URL: /teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    URL: /portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    URL: /year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    URL: /cv/
+    url: /cv/
     
   - title: "Guide"
-    URL: /markdown/
+    url: /markdown/
