@@ -7,8 +7,12 @@ excerpt: 'This paper was done during my second year in PhD'
 date: 2023-4-10
 venue: 'arXiv'
 slidesurl: 'http://mohammadkhf.github.io/files/FCVI.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://mohammadkhf.github.io/files/FCVIpaper.pdf'
+citation: 'D Boob, Q Deng, M Khalafi - arXiv preprint arXiv:2304.04778, 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The monotone Variational Inequality (VI) framework has broad applications in engineering and science, often involving data-driven function constraints, making standard projections challenging. This paper introduces first-order methods for function-constrained VI (FCVI) problems in smooth, nonsmooth, and stochastic settings.
+
+We propose AdOpEx, which applies operator extrapolation to the KKT operator in smooth deterministic settings, using an adaptive two-timescale approach to ensure bounded multipliers and optimal convergence. For nonsmooth and stochastic VIs, we introduce P-OpEx, a partial extrapolation method, and OpConEx, which improves dependence on noise and Lipschitz constants via constraint extrapolation.
+
+Our algorithms extend naturally to generalized Nash equilibrium problem (GNEP) with function constraints, maintaining the same complexity guarantees.
