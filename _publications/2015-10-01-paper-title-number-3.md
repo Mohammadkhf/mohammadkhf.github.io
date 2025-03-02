@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "Optimal Primal-Dual Algorithm with Last iterate Convergence Guarantees for Stochastic Convex Optimization Problems"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/last-iterate
+excerpt: 'This paper is under first revision'
+date: 2024-10-24
+venue: 'arXiv'
+paperurl: 'http://mohammadkhf.github.io/files/lastiterate.pdf'
+citation: 'D Boob, M Khalafi - arXiv preprint arXiv:2410.18513, 2024'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a novel first-order algorithm for solving composite nonsmooth and stochastic convex optimization problems with function constraints. While most existing methods focus on convergence guarantees for the average-iterate solution, there is increasing interest in last-iterate convergence due to its practical advantages, such as sparsity, privacy, and improved empirical performance.
+
+We present the Augmented Constraint Extrapolation (Aug-ConEx) method, the first algorithm to achieve the best-known convergence rates for last-iterate solutions in this setting. Built on the augmented Lagrangian framework, Aug-ConEx employs a novel linearized constraint approximation. It achieves an optimal convergence rate in nonsmooth stochastic settings and an improved rate for strongly convex objectives. Additionally, it accelerates convergence based on Lipschitz smoothness constants without extra complexity factors.
+
+To the best of our knowledge, this is the first method to establish such differentiated last-iterate guarantees for composite nonsmooth stochastic optimization. We validate its effectiveness through numerical comparisons with state-of-the-art algorithms.
