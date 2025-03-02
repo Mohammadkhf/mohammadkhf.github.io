@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "First-order methods for Stochastic Variational Inequality problems with Function Constraints"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+permalink: /publication/FCVI
+excerpt: 'This paper was done during my second year in PhD'
+date: 2023-4-10
+venue: 'arXiv'
+slidesurl: 'http://mohammadkhf.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
