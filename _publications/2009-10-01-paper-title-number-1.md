@@ -2,6 +2,7 @@
 title: "Supply Curves in Electricity Markets: A Framework For Dynamic Modeling and Monte Carlo Forecasting"
 collection: publications
 category: manuscripts
+excerpt: 'This paper was a part of my MSc thesis'
 permalink: /publication/IEEE 
 date: 2022-9-22
 venue: 'IEEE Transactions on Power Systems'
