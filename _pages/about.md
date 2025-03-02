@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-bnfxbfb xf 
+I am a PhD candidate at Southern Methodist University (SMU) in the Operations Research and Engineering Management (OREM) department. My research primarily focuses on the foundations of optimization and machine learning. My work falls into the following categories.
+
+* Item1
+* item2
 
 A data-driven personal website
 ======
