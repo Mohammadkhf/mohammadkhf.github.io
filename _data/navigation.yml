@@ -13,15 +13,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+         
+  - title: "Honors and Awards"
     url: /year-archive/
     
-  - title: "CVTEST"
-    url: /cvtest/
+  - title: "CV"
+    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
