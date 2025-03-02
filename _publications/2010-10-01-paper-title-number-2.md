@@ -3,7 +3,7 @@ title: "First-order methods for Stochastic Variational Inequality problems with 
 collection: publications
 category: manuscripts
 permalink: /publication/FCVI
-excerpt: 'This paper was done during my second year in PhD'
+excerpt: 'This is under second revision'
 date: 2023-4-10
 venue: 'arXiv'
 slidesurl: 'http://mohammadkhf.github.io/files/FCVI.pdf'
