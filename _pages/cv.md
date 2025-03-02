@@ -62,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[More information here](http://mohammadkhf.github.io/files/postericml.pdf)
