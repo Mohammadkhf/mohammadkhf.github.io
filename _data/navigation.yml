@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+s # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -8,20 +8,20 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/    
+
   - title: "Talks"
     url: /talks/    
-
+  
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Skills"
+    url: /skills/
+    
+  - title: "Honors and Awards"
+    url: /Honoraward/
