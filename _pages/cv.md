@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[More information here](http://mohammadkhf.github.io/files/postericml.pdf)
+[Find my CV here](http://mohammadkhf.github.io/files/CV_Khalafi.pdf)
