@@ -7,6 +7,8 @@ venue: "Sabanci University, IE department"
 date: 2019-09-20
 location: "Istanbul, Turkey"
 ---
+I was a teaching assistant at Sabanci University from 2019 to 2021. 
+
 ### Simulation (IE 305) 2019-2021
 Responsible for homework and exam grading, holding weekly office hours, maintaining student progress records, and delivering class lectures mostly done in Arena whenever required. It was an undergrad course with approximately 120 students. 
 ### Statistical Modeling (Math 306) 2021
