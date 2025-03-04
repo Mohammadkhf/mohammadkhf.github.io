@@ -27,3 +27,11 @@ Education
 ### BSc in Industrial Engineering (2015-2019)
 * Thesis Title: Developing Social Robots with Personalized Behavior for Elder Care
 * GPA: 3.43
+
+Licenses & certifications
+======
+* <a href="https://courses.nvidia.com/certificates/e13f3edcc1394d6682e370fda4e20ca7/">Building Transformer-Based Natural Language Processing Applications</a>
+* <a href="https://courses.nvidia.com/certificates/b35260ce48454bd289fc2bbea1428aaf/">Fundamentals of Deep Learning</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/K9RPCUJZMKJ4">Advanced Learning Algorithms</a>
+* <a href="https://www.coursera.org/account/accomplishments/certificate/SZWSEZLH6SP8">Supervised Machine Learning: Regression and Classification</a>
+
